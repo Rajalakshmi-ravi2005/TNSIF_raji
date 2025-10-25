@@ -4,7 +4,7 @@ class FinalDemo {
 	
 	final int Var = 100;
 	
-	final void display() {
+	void display() {
 		System.out.println("show the value of max: "+ Var);
 	}
 
