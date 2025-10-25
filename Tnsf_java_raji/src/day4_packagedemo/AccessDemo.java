@@ -1,6 +1,5 @@
 package day4_packagedemo;
 
-import com.tnsif.packagesandaccessmodifiers.AccessModifiersExample;
 
 public class AccessDemo {
 
